@@ -1,0 +1,21 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz",
+    "apikey": "zenzkey_d0119533c5f2"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "LAnzz",
+    "author": "@mf4dhlan_24"
+  },
+  "owner": [
+    "6281311268263"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by @mf4dhlan_24"
+}
